@@ -1790,8 +1790,9 @@ $(function () {
     $(document).on("click", ".specsZan", function () {
         $(this).postLike();
     });
-    console.log("%c Mashiro %c", "background:#24272A; color:#ffffff", "", "https://2heng.xin/");
-    console.log("%c Github %c", "background:#24272A; color:#ffffff", "", "https://github.com/mashirozx");
+    //console.log("%c Mashiro %c", "background:#24272A; color:#ffffff", "", "https://2heng.xin/");
+    //console.log("%c Github %c", "background:#24272A; color:#ffffff", "", "https://github.com/mashirozx");
+    //控制台情节，干干净净的哈哈
 });
 var isWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1,
     isOpera = navigator.userAgent.toLowerCase().indexOf('opera') > -1,
